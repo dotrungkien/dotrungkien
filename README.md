@@ -3,11 +3,11 @@
 <img align='right' src="https://github.com/dotrungkien/dotrungkien/raw/master/assets/avatar.png" width="230">
 
 <p align="">
-  <a href="https://github.com/dotrungkien/"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:trungkien.keio@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/trungkien162"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dotrungkien/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/kevindo90"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/dotrungkien/"><img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:trungkien.keio@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/trungkien162"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=flat-square&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dotrungkien/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/kevindo90"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## About me
