@@ -22,11 +22,11 @@
 
 🎓 Graduated from Hanoi University of Science and Technology in Vietnam, and Keio University from Japan.
 
-🧐 Interested in Blockchain, especially in Ethereum, smart contract security, defi, gamefi, nft, and crypto.
+🧐 Interested in Blockchain, especially in Ethereum, Smart Contract Security, Defi, Gamefi, NFT, and Crypto.
 
 ✍🏻 Language: Vietnamese (native), English, Japanese.
 
-## Favourite quote
+## Favorite quote
 
 > There's a big difference between knowing﻿ the name of something and knowing something.
 > ― Richard Feynman
