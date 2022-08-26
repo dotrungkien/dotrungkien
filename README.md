@@ -30,9 +30,3 @@
 
 > There's a big difference between knowing﻿ the name of something and knowing something.
 > ― Richard Feynman
-
-## Address
-
-<img src="https://media4.giphy.com/media/3XLnQDvcXOtbNgUzx6/giphy.gif" width="30"> **0xf2c2575EBA523FF9c303a5fe612b330E91F77F50**
-
----
