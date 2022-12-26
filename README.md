@@ -1,7 +1,5 @@
 <h1 align="">Hi! I'm Do Trung Kien. 👋</h1>
 
-<img align='right' src="https://github.com/dotrungkien/dotrungkien/raw/master/assets/avatar.png" width="230">
-
 <p align="">
   <a href="https://github.com/dotrungkien/"><img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:trungkien.keio@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
