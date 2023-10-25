@@ -1,22 +1,13 @@
 <h1 align="">Hi! I'm Do Trung Kien. 👋</h1>
 
 <p align="">
-  <a href="https://github.com/dotrungkien/"><img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:trungkien.keio@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/trungkien162"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=flat-square&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dotrungkien/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/kevindo90"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## About me
 
-💻 Co-founder & CEO at <a href="https://www.mochilab.org/">MochiLab</a>
-
-💻 Co-founder & CEO/CTO at <a href="https://mochi.market/">Mochi Market</a>
-
-💻 Co-founder & CEO/CTO at <a href="https://mochipad.io/">Mochi Launchpad</a>
-
-🌱 Advisor/Incubator/Investor at many other blockchain projects in Vietnam/Singapore/Thailand.
+💻 Co-founder at <a href="https://www.mochilab.org/">MochiLab</a>
 
 🎓 Graduated from Hanoi University of Science and Technology in Vietnam, and Keio University from Japan.
 
