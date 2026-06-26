@@ -8,8 +8,6 @@
 
 🎓 Graduated from Hanoi University of Science and Technology in Vietnam, and Keio University from Japan.
 
-🧐 Interested in Blockchain, especially in Ethereum, Smart Contract Security, Defi, Gamefi, NFT, and Crypto.
-
 ✍🏻 Language: Vietnamese (native), English, Japanese.
 
 ## Favorite quote
